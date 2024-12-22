@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab462dfd-5867-474f-adc6-47cdca9d061c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/markdown-table2me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/markdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/about-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/index-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/markdown_LC_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/python-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/css/typora-github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/_main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/lunr/lunr-en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/lunr/lunr-gr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/lunr/lunr-store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/lunr/lunr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/lunr/lunr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/main.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/main.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/plugins/gumshoe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/plugins/jquery.ba-throttle-debounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/plugins/jquery.fitvids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/plugins/jquery.greedy-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/plugins/jquery.magnific-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/plugins/smooth-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/py-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/type-writer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/assets/js/vendor/jquery/jquery-3.6.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC0724_Find_Pivot_Index_S1_Two_Points.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3033_Modify_the_Matrix_S1_Simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3099_Harshad_Number_S1_Simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3101_Count_Alternating_Subarrays_S1_Sliding_Window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3200_Maximum_Height_of_a_Triangle_S1_Simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3200_Maximum_Height_of_a_Triangle_S2_Math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3211_Generate_Binary_Strings_Without_Adjacent_Zeros_S1_Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3211_Generate_Binary_Strings_Without_Adjacent_Zeros_S2_Iteration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3211_Generate_Binary_Strings_Without_Adjacent_Zeros_S3_Bitwise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/LC3216_Lexicographyically_Smallest_String_After_a_Swap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/run_solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/leetcode/x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/shell/git.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/code/shell/mycode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/markdown/coding-tips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/markdown/git操作.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/markdown/leetcode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_site/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/about-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/index-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/markdown_LC_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/python-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/css/typora-github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/py-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/type-writer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC0724_Find_Pivot_Index_S1_Two_Points.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3033_Modify_the_Matrix_S1_Simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3099_Harshad_Number_S1_Simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3101_Count_Alternating_Subarrays_S1_Sliding_Window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3200_Maximum_Height_of_a_Triangle_S1_Simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3200_Maximum_Height_of_a_Triangle_S2_Math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3211_Generate_Binary_Strings_Without_Adjacent_Zeros_S1_Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3211_Generate_Binary_Strings_Without_Adjacent_Zeros_S2_Iteration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3211_Generate_Binary_Strings_Without_Adjacent_Zeros_S3_Bitwise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/LC3216_Lexicographyically_Smallest_String_After_a_Swap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/run_solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/leetcode/x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/shell/git.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/code/shell/mycode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/coding-tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/git操作.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/markdown/leetcode.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ich9rMoJoembA1P4bVygbUbDEx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.hello.executor": "Run",
+    "Python.run_solution.executor": "Run",
+    "Python.x.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/guoyangming/Documents/github_repo/dean-98543.github.io/web-minimal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web-minimal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hello">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dean-98543.github.io" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs/code/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/code/leetcode/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dean-98543.github.io" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs/code/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/code/leetcode/run_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="x" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dean-98543.github.io" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs/code/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/code/leetcode/x.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.x" />
+        <item itemvalue="Python.run_solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab462dfd-5867-474f-adc6-47cdca9d061c" name="Changes" comment="" />
+      <created>1719795625474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719795625474</updated>
+      <workItem from="1719795626963" duration="112000" />
+      <workItem from="1719795750833" duration="4000" />
+      <workItem from="1720405308245" duration="796000" />
+      <workItem from="1720406385433" duration="308000" />
+      <workItem from="1721046048555" duration="2388000" />
+      <workItem from="1721093498608" duration="1084000" />
+      <workItem from="1722231769503" duration="107000" />
+      <workItem from="1722232645363" duration="267000" />
+      <workItem from="1722233271785" duration="7000" />
+      <workItem from="1722234423051" duration="23000" />
+      <workItem from="1722234836595" duration="23000" />
+      <workItem from="1722235283641" duration="224000" />
+      <workItem from="1722235517027" duration="31000" />
+      <workItem from="1734698858148" duration="5848000" />
+      <workItem from="1734793536359" duration="6082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dean_98543_github_io$hello.coverage" NAME="hello Coverage Results" MODIFIED="1722235538061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/code/leetcode" />
+    <SUITE FILE_PATH="coverage/dean_98543_github_io$run_solution.coverage" NAME="run_solution Coverage Results" MODIFIED="1721047255654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/code/leetcode" />
+    <SUITE FILE_PATH="coverage/dean_98543_github_io$x.coverage" NAME="x Coverage Results" MODIFIED="1721048258198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/code/leetcode" />
+  </component>
+</project>
