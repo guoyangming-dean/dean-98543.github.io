@@ -3,6 +3,29 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm Yangming Guo, and this is my personal blog and portfolio website.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## About Me
+
+I'm passionate about technology, software development, and continuous learning. This website serves as a space where I share my thoughts, projects, and experiences.
+
+## What You'll Find Here
+
+- **Blog Posts**: Thoughts on technology, programming, and various topics that interest me
+- **Projects**: Showcase of my work and personal projects
+- **Resources**: Helpful tutorials and guides I've created
+
+## Skills & Interests
+
+- Software Development
+- Web Technologies
+- Open Source Contributions
+- Learning New Technologies
+
+## Contact
+
+Feel free to reach out to me at yangmingnjau@163.com if you have any questions or just want to connect!
+
+---
+
+*This website is built using Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages.*
